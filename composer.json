@@ -1,6 +1,6 @@
 {
     "name": "mandado/pt-br-validator",
-    "description": "Uma biblioteca contendo validações de formatos Brasileiros, para o Laravel 6/7 ( Fork para suportar Laravel 7.0 )",
+    "description": "Uma biblioteca contendo validações de formatos Brasileiros, para o Laravel 7 ( Fork para suportar Laravel 7.0 )",
     "license" : "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "6.0.* || 7.0.* || 7.1.*"
+        "illuminate/support": "ˆ7.*"
     },
     "autoload": {
         "psr-4": {
